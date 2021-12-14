@@ -29,6 +29,12 @@ Make Sure to Create a .env and add appropriate variables in order to use the app
 name : admin
 password : 12345678
 
+## **CARD VISA FAKE**
+
+https://stripe.com/docs/testing
+
+424242424242424242 424 42 424242
+
 ## Author
 
 **Instagram** Click [Here](https://www.instagram.com/maycol0428)
