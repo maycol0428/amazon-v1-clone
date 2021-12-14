@@ -19,8 +19,15 @@ Make Sure to Create a .env and add appropriate variables in order to use the app
 ## **Essential Variables**
 
 **PORT**
+
 **MONGO_URI**
+
 **STRIPE_KEY**
+
+## **User Login**
+
+name : admin
+password : 12345678
 
 ## Author
 

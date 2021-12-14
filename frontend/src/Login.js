@@ -34,7 +34,7 @@ function Login() {
       .then((res) => {
         dispatch(setUser(res.data.user));
         setLoading(false);
-        history.push(loading);
+        history.push(redirect);
       })
       .catch((err) => {
         alert(err.response.message);
