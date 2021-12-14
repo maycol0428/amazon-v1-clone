@@ -1,4 +1,4 @@
-# Un simple skeleton app
+# Un simple amazon clone
 
 Hi! My name is **Maycol Elcorrobarrutia Medina**.
 
@@ -18,8 +18,9 @@ Make Sure to Create a .env and add appropriate variables in order to use the app
 
 ## **Essential Variables**
 
--
--
+-PORT
+-MONGO_URI
+-STRIPE_KEY
 
 ## Author
 
